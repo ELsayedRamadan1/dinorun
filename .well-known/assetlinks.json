@@ -1,0 +1,8 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "io.github.elsayedramadan1.twa",
+    "sha256_cert_fingerprints": ["38:E9:93:76:A3:84:FC:AB:34:3B:12:5B:5E:8E:A4:2C:42:4D:D7:A3:4A:6B:7F:C3:21:60:B2:4C:FB:9E:15:97"]
+  }
+}]
